@@ -1,0 +1,32 @@
+# marks=[]
+# marks.append(int(input("Enter Your Number: ")))
+# marks.append(int(input("Enter Your Number: ")))
+# marks.append(int(input("Enter Your Number: ")))
+# marks.append(int(input("Enter Your Number: ")))
+# marks.append(int(input("Enter Your Number: ")))
+# print(marks.append)
+# print(marks)
+# print("Sum= ",sum(marks))
+# print("Min Mark= ",min(marks))
+# print("Avarage= ", sum(marks)/5)
+
+# marks=[]
+# m1=float(input("Enter number 1: "))
+# m2=float(input("Enter number 1: "))
+# m3=float(input("Enter number 1: "))
+# m4=float(input("Enter number 1: "))
+# m5=float(input("Enter number 1: "))
+# marks.append(m1)
+# marks.append(m2)
+# marks.append(m3)
+# marks.append(m4)
+# marks.append(m5)
+# print(marks)
+# print("Highest mark: ", max(marks))
+# print("Lowest mark: ", min(marks))
+# print("Avarage", sum(marks)/len(marks))
+
+fruit=["Banana","Mango","Date","Jackfruit","Papaya"]
+fruit.append(str(input("Enter what you Want to add: ")))
+fruit.remove(str(input("Enter what you Want to remove: ")))
+print(fruit)

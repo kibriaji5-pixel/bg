@@ -1,0 +1,18 @@
+num=[1,2,3,4,5,6,7,8,9,]
+print("sum = ",sum(num))
+print("Maximum = ",max(num))
+print("Minimum = ",min(num))
+print("Lenth",len(num))
+
+num.append(("bcc"))
+print(num)
+num.insert(7,10)
+print(num)
+num.remove(9)
+print(num)
+num.pop(-1)
+print(num)
+num.sort()
+print(num)
+num.reverse()
+print(num)
