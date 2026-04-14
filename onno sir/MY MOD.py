@@ -44,3 +44,4 @@ b1.calc(5, 10)
 t1.calc(5, 10)
 r1.calc(5, 10)
 c1.calc(7)
+import
